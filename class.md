@@ -1,4 +1,4 @@
-Kristian	
-Germany	
-Meta Front-End course
+Selorm
+Ghana	
+Meta Front-End 
 
